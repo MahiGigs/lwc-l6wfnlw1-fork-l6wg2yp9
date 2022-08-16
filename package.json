@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/mahigigs.lwc-l6wfnlw1-fork-l6wg2yp9",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve Sv0yas0tiBoIJcpb4jwh --open"
+  }
+}
